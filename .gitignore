@@ -5,6 +5,9 @@ out/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### OUTROS ###
+.DS_Store
+
 ### STS ###
 .apt_generated
 .classpath
